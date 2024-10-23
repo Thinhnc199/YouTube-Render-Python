@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RentTutorPresentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RentTutorPresentation.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Avatar01.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatar01.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Avatar02.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatar02.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Avatar03.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatar03.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Avatar04.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatar04.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Avatar05.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatar05.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Avatar07.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatar07.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\Javascript.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\Javascript.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\Nodejs.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\Nodejs.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\ShiftSoft.png",
+      "PackagePath": "staticwebassets\\img\\Courses\\ShiftSoft.png"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\Success.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\Success.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\ava.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\ava.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\banner004.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\banner004.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\banner01.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\banner01.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\banner02.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\banner02.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\banner03.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\banner03.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\banner05.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\banner05.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\java.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\java.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\reactjs.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\reactjs.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Courses\\sptingspoot.jpg",
+      "PackagePath": "staticwebassets\\img\\Courses\\sptingspoot.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\LoginImg.png",
+      "PackagePath": "staticwebassets\\img\\LoginImg.png"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Personalized-Learning.png",
+      "PackagePath": "staticwebassets\\img\\Personalized-Learning.png"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\RegisterImg.jpg",
+      "PackagePath": "staticwebassets\\img\\RegisterImg.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\Tutor.jpg",
+      "PackagePath": "staticwebassets\\img\\Tutor.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\avatardefault.png",
+      "PackagePath": "staticwebassets\\img\\avatardefault.png"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\becomeTutor.jpg",
+      "PackagePath": "staticwebassets\\img\\becomeTutor.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\graduation-removebg.png",
+      "PackagePath": "staticwebassets\\img\\graduation-removebg.png"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\graduation.png",
+      "PackagePath": "staticwebassets\\img\\graduation.png"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\hat.jpg",
+      "PackagePath": "staticwebassets\\img\\hat.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\tutor-directory.jpg",
+      "PackagePath": "staticwebassets\\img\\tutor-directory.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\visual-teenager-reading-book-mobile-phone-educate.jpg",
+      "PackagePath": "staticwebassets\\img\\visual-teenager-reading-book-mobile-phone-educate.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\img\\z5848027674510_1678da8f2f576d67c74ec3fdb0ace680.jpg",
+      "PackagePath": "staticwebassets\\img\\z5848027674510_1678da8f2f576d67c74ec3fdb0ace680.jpg"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\EXE\\Exe201_Shiftsoft\\RentTutorPresentation\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RentTutorPresentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RentTutorPresentation.props",
+      "PackagePath": "build\\RentTutorPresentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RentTutorPresentation.props",
+      "PackagePath": "buildMultiTargeting\\RentTutorPresentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RentTutorPresentation.props",
+      "PackagePath": "buildTransitive\\RentTutorPresentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

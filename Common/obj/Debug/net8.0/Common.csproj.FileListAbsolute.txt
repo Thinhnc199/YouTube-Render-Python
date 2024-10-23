@@ -1,0 +1,12 @@
+D:\EXE\Exe201_Shiftsoft\Common\bin\Debug\net8.0\Common.deps.json
+D:\EXE\Exe201_Shiftsoft\Common\bin\Debug\net8.0\Common.dll
+D:\EXE\Exe201_Shiftsoft\Common\bin\Debug\net8.0\Common.pdb
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.dll
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\refint\Common.dll
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\Common.pdb
+D:\EXE\Exe201_Shiftsoft\Common\obj\Debug\net8.0\ref\Common.dll

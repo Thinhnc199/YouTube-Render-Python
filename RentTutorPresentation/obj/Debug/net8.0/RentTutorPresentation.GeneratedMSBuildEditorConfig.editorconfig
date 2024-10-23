@@ -1,0 +1,239 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RentTutorPresentation
+build_property.RootNamespace = RentTutorPresentation
+build_property.ProjectDir = D:\EXE\Exe201_Shiftsoft\RentTutorPresentation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\EXE\Exe201_Shiftsoft\RentTutorPresentation
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Admin-Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/CategoriesCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmllc0NvdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/CourseManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Courses-Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlcy1EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Create-Cate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlLUNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Delete-Cate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGVsZXRlLUNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Order-Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXItRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/OrdersManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/RegisTutorManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVnaXNUdXRvck1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/StudentDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU3R1ZGVudERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/StudentManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU3R1ZGVudE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/TutorDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHV0b3JEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/TutorManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHV0b3JNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Admin/Update-Cate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXBkYXRlLUNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/BecomeTutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmVjb21lVHV0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/CoursesDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/RegisterPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxBZGRUb0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/AddToOrderNow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxBZGRUb09yZGVyTm93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/My-learning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxNeS1sZWFybmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/Orders-history.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxPcmRlcnMtaGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/Payment-successful.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxQYXltZW50LXN1Y2Nlc3NmdWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/RemoveFromCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxSZW1vdmVGcm9tQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/Shoppingcart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxTaG9wcGluZ2NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/StudentProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxTdHVkZW50UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/View-invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxWaWV3LWludm9pY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/VNPayReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFxWTlBheVJldHVybi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Student/wishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFx3aXNobGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/TutorDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Courses-manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcQ291cnNlcy1tYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Create-Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcQ3JlYXRlLUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Delete-Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcRGVsZXRlLUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Detail-Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcRGV0YWlsLUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Orders-manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcT3JkZXJzLW1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Student-resquest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcU3R1ZGVudC1yZXNxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Tutor/Tutor-Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHV0b3JcVHV0b3ItUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EXE/Exe201_Shiftsoft/RentTutorPresentation/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-neuxj1wcah
